@@ -3001,8 +3001,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-19 07:38:44 +0000",
       "minecraft:spider": "2025-02-19 05:47:37 +0000",
       "minecraft:silverfish": "2025-02-19 07:14:05 +0000",
+      "minecraft:zombie": "2025-02-19 07:37:52 +0000",
       "minecraft:drowned": "2025-02-19 05:58:24 +0000"
     },
     "done": false
@@ -3673,6 +3675,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-02-19 07:37:58 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/decorations/gloom_o_lantern": {
     "criteria": {
       "has_torch": "2025-02-19 07:10:48 +0000"
@@ -3775,6 +3783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-19 07:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-02-19 07:23:02 +0000"
@@ -3793,9 +3807,21 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-02-19 07:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-02-19 07:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-02-19 07:30:26 +0000"
     },
     "done": true
   },
@@ -3814,6 +3840,12 @@
   "valhelsia_furniture:recipes/decorations/brown_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-19 07:30:44 +0000"
     },
     "done": true
   },
@@ -3868,6 +3900,12 @@
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_item": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-19 07:37:58 +0000"
     },
     "done": true
   },
@@ -4005,6 +4043,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-02-19 07:38:45 +0000"
+    },
+    "done": true
+  },
   "endrem:main/rogue_eye": {
     "criteria": {
       "rogue_eye": "2025-02-19 07:09:09 +0000"
@@ -4041,6 +4085,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-19 07:30:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-02-19 07:19:43 +0000"
@@ -4065,6 +4115,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-02-19 07:37:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
@@ -4080,6 +4136,12 @@
   "valhelsia_furniture:recipes/decorations/orange_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-02-19 07:37:58 +0000"
     },
     "done": true
   },
@@ -4119,6 +4181,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-02-19 07:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-02-19 07:07:52 +0000"
@@ -4128,6 +4196,12 @@
   "valhelsia_furniture:recipes/decorations/purple_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-02-19 07:30:04 +0000"
     },
     "done": true
   },
@@ -4179,6 +4253,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-02-19 07:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-19 07:26:00 +0000"
@@ -4206,6 +4286,24 @@
   "valhelsia_furniture:recipes/decorations/lime_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/spruce_post": {
+    "criteria": {
+      "has_item": "2025-02-19 07:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-19 07:37:58 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-02-19 07:37:58 +0000"
     },
     "done": true
   },
@@ -4302,6 +4400,12 @@
   "valhelsia_furniture:recipes/decorations/gray_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-19 07:37:58 +0000"
     },
     "done": true
   },

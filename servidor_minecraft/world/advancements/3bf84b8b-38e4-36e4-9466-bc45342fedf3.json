@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-19 07:41:33 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_items": "2025-02-19 06:59:32 +0000"
@@ -815,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-19 07:41:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-02-19 07:10:38 +0000"
@@ -1109,6 +1121,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-19 07:41:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-02-19 07:10:38 +0000"
@@ -1145,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-19 07:32:56 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/paper_wall": {
     "criteria": {
       "has_bamboo": "2025-02-19 07:07:51 +0000"
@@ -1160,6 +1184,12 @@
   "decorative_blocks:recipes/decorations/chandelier": {
     "criteria": {
       "has_torch": "2025-02-19 07:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-19 07:32:56 +0000"
     },
     "done": true
   },
@@ -1286,6 +1316,12 @@
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-02-19 06:59:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-19 07:34:43 +0000"
     },
     "done": true
   },
@@ -2091,6 +2127,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-19 07:34:33 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/jungle_bookshelf": {
     "criteria": {
       "has_book": "2025-02-19 07:03:25 +0000"
@@ -2123,6 +2165,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-02-19 07:28:25 +0000",
       "melon_slice": "2025-02-19 07:11:11 +0000"
     },
     "done": false
@@ -2581,6 +2624,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-02-19 07:41:18 +0000",
       "minecraft:silverfish": "2025-02-19 07:13:54 +0000"
     },
     "done": false
@@ -3059,6 +3103,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/decorations/sticky_basket": {
+    "criteria": {
+      "has_cobweb": "2025-02-19 07:41:55 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/transportation/river_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-19 07:00:38 +0000"
@@ -3438,6 +3488,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-02-19 07:41:05 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
     "criteria": {
       "has_items": "2025-02-19 06:59:32 +0000"
@@ -3453,6 +3509,12 @@
   "aquaculture:recipes/tools/diamond_fillet_knife": {
     "criteria": {
       "has_items": "2025-02-19 07:15:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-02-19 07:30:05 +0000"
     },
     "done": true
   },
@@ -3792,6 +3854,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-02-19 07:30:05 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
     "criteria": {
       "has_items": "2025-02-19 06:59:32 +0000"
@@ -4014,6 +4082,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-19 07:41:05 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-02-19 07:00:40 +0000"
@@ -4216,6 +4290,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-02-19 07:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-02-19 07:32:56 +0000"
     },
     "done": true
   },

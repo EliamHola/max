@@ -5341,3 +5341,61 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Feb2025 07:24:52.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
 [19Feb2025 07:30:26.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Suit Up]
 [19Feb2025 07:30:44.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Isn't It Iron Pick]
+[19Feb2025 07:32:56.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Suit Up]
+[19Feb2025 07:35:37.001] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[19Feb2025 07:35:37.001] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003����",
+  "f_134722_": 42747,
+  "fmlVersion": "NONE"
+}
+[19Feb2025 07:35:37.002] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 119 extra bytes: 
+[19Feb2025 07:35:37.002] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+.=qO1X YY\\KuDqMpO[@|g&+/,0/526.ip.gl.ply.gg"
+]
+[19Feb2025 07:35:38.485] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[19Feb2025 07:35:38.485] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003�L�T",
+  "f_134722_": 4355,
+  "fmlVersion": "NONE"
+}
+[19Feb2025 07:35:38.485] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 245 extra bytes: 
+[19Feb2025 07:35:38.486] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/V]+pi Y (wv#elKpISG&+/,0/526.p.gl.ply.gg+3&$}6(xQhW[AY(x"
+]
+[19Feb2025 07:35:57.116] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[19Feb2025 07:35:57.116] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 225,
+  "f_134721_": "",
+  "f_134722_": 221,
+  "fmlVersion": "NONE"
+}
+[19Feb2025 07:35:57.117] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 124 extra bytes: 
+[19Feb2025 07:35:57.117] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#!iGgH<=CZh/938k=f('/5gj<#0,$"
+]
+[19Feb2025 07:35:58.068] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[19Feb2025 07:35:58.068] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 213,
+  "f_134721_": "",
+  "f_134722_": 209,
+  "fmlVersion": "NONE"
+}
+[19Feb2025 07:35:58.069] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 95 extra bytes: 
+[19Feb2025 07:35:58.069] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "S<s2rr9(CT7:8,0+/$(k'g93=<5/p"
+]
+[19Feb2025 07:40:14.810] [Worker-Main-7/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[19Feb2025 07:40:21.984] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1340, y=81, z=648}
+[19Feb2025 07:40:49.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 07:41:05.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [World of illusion]
+[19Feb2025 07:41:33.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Local Brewery]
