@@ -5291,3 +5291,27 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Feb2025 06:59:32.022] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
 [19Feb2025 06:59:34.317] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
 [19Feb2025 07:00:04.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Dungeon Now Loading]
+[19Feb2025 07:02:27.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Barrel Booty]
+[19Feb2025 07:02:46.906] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[19Feb2025 07:02:54.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement ['X' Marks the Spot]
+[19Feb2025 07:02:57.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has reached the goal [Badger Badger Badger]
+[19Feb2025 07:03:12.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Made Loko384 a server operator]
+[19Feb2025 07:03:17.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
+[19Feb2025 07:03:22.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Glowing Gourmet]
+[19Feb2025 07:03:30.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Sweet Dreams]
+[19Feb2025 07:08:21.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 07:08:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Barrel Booty]
+[19Feb2025 07:08:28.772] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity alexsmobs:leafcutter_anthill_te @ BlockPos{x=373, y=65, z=-291} state Block{supplementaries:structure_temp} invalid for ticking:
+[19Feb2025 07:08:28.775] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau]] from pos BlockPos{x=373, y=67, z=-293}
+[19Feb2025 07:08:31.493] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[19Feb2025 07:08:32.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[19Feb2025 07:09:09.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [The Beginning of An Adventure]
+[19Feb2025 07:09:09.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Welcome To The Jungle]
+[19Feb2025 07:09:12.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Amateur Archaeologist]
+[19Feb2025 07:09:12.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Too Many Bows]
+[19Feb2025 07:09:14.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Too Many Bows]
+[19Feb2025 07:10:38.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Stone Age]
+[19Feb2025 07:11:15.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 got cut in half by a Mechanical Saw
+[19Feb2025 07:11:19.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 07:11:39.676] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[19Feb2025 07:11:39.676] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
