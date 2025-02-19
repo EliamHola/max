@@ -642,7 +642,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "fungal_jungle": "2025-02-19 05:12:22 +0000"
+      "fungal_jungle": "2025-02-19 05:12:22 +0000",
+      "rocky_rainforest": "2025-02-19 07:45:42 +0000",
+      "glowing_grotto": "2025-02-19 07:48:48 +0000",
+      "rainforest": "2025-02-19 07:45:37 +0000"
     },
     "done": false
   },
@@ -3609,9 +3612,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-19 07:50:55 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/jungle_desk": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_iron_bars": "2025-02-19 07:48:57 +0000"
     },
     "done": true
   },
@@ -3648,6 +3663,12 @@
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-02-19 07:07:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 07:47:03 +0000"
     },
     "done": true
   },
@@ -3690,6 +3711,18 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-19 07:51:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 07:48:34 +0000"
     },
     "done": true
   },
@@ -3837,6 +3870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-19 07:48:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
@@ -3909,9 +3948,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2025-02-19 07:51:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-19 07:51:59 +0000"
     },
     "done": true
   },
@@ -3947,6 +3998,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "magnolia_highlands": "2025-02-19 07:44:22 +0000",
       "sparse_redwoods": "2025-02-19 07:19:56 +0000",
       "redwoods": "2025-02-19 07:24:53 +0000"
     },
@@ -3964,6 +4016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-19 07:48:01 +0000"
+    },
+    "done": true
+  },
   "too_many_bows:master_bow_collector": {
     "criteria": {
       "demons_grasp": "2025-02-19 07:09:12 +0000"
@@ -3972,6 +4030,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "magnolia_highlands": "2025-02-19 07:44:22 +0000",
       "sparse_redwoods": "2025-02-19 07:19:56 +0000",
       "redwoods": "2025-02-19 07:24:53 +0000"
     },
@@ -4013,6 +4072,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 07:47:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
@@ -4037,6 +4102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-19 07:50:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-19 07:06:51 +0000"
@@ -4052,6 +4123,12 @@
   "endrem:main/rogue_eye": {
     "criteria": {
       "rogue_eye": "2025-02-19 07:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-02-19 07:48:34 +0000"
     },
     "done": true
   },
@@ -4091,6 +4168,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-02-19 07:48:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-02-19 07:19:43 +0000"
@@ -4115,9 +4198,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-02-19 07:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-19 07:51:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/ash": {
     "criteria": {
       "has_gunpowder": "2025-02-19 07:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-19 07:51:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-19 07:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-19 07:51:59 +0000"
     },
     "done": true
   },
@@ -4211,6 +4324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-19 07:48:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-02-19 07:19:43 +0000"
@@ -4265,6 +4384,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 07:47:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
@@ -4286,6 +4411,12 @@
   "valhelsia_furniture:recipes/decorations/lime_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-19 07:51:59 +0000"
     },
     "done": true
   },
@@ -4349,6 +4480,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 07:47:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
@@ -4358,6 +4495,18 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-02-19 07:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-19 07:47:03 +0000"
     },
     "done": true
   },
@@ -4388,6 +4537,12 @@
   "valhelsia_furniture:recipes/decorations/black_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-02-19 07:48:57 +0000"
     },
     "done": true
   },
