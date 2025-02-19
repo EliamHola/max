@@ -5274,3 +5274,9 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Feb2025 06:37:18.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
 [19Feb2025 06:37:18.727] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
 [19Feb2025 06:37:18.899] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
+[19Feb2025 06:49:33.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[19Feb2025 06:49:33.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[19Feb2025 06:49:38.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliamDios[/127.67.90.126:37939] logged in with entity id 4966 at (25.656693691802726, 64.0, 91.99005049360233)
+[19Feb2025 06:49:39.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
+[19Feb2025 06:49:39.115] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
+[19Feb2025 06:49:39.288] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
