@@ -5468,3 +5468,28 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 ]
 [19Feb2025 08:00:12.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
 [19Feb2025 08:02:20.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 08:02:37.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Close Quarters]
+[19Feb2025 08:02:52.577] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[19Feb2025 08:03:07.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Best Friends Forever]
+[19Feb2025 08:03:22.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Best Friends Forever]
+[19Feb2025 08:03:57.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
+[19Feb2025 08:05:25.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: Disconnected
+[19Feb2025 08:05:25.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game
+[19Feb2025 08:05:30.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loko384[/127.133.119.214:44627] logged in with entity id 22885 at (1445.4562292393352, 72.0, -180.4403524687114)
+[19Feb2025 08:05:30.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
+[19Feb2025 08:05:30.349] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
+[19Feb2025 08:05:31.886] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[19Feb2025 08:06:06.082] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[19Feb2025 08:06:42.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 08:07:50.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6016ms or 120 ticks behind
+[19Feb2025 08:09:22.314] [pool-8-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / valhelsia_structures:tower_ruin], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes]] from pos BlockPos{x=1973, y=71, z=-507}
+[19Feb2025 08:09:58.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
+[19Feb2025 08:10:21.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Close Quarters]
+[19Feb2025 08:11:18.296] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[19Feb2025 08:11:18.296] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[19Feb2025 08:11:18.296] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[19Feb2025 08:11:18.296] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[19Feb2025 08:11:18.296] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[19Feb2025 08:11:20.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3085ms or 61 ticks behind
+[19Feb2025 08:11:38.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 08:12:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
