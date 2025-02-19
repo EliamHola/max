@@ -1,0 +1,50 @@
+[
+    {
+      "mob": "minecraft:pillager",
+      "remove": "biomemakeover:cladded_helmet"
+    },
+    {
+      "mob": "minecraft:pillager",
+      "remove": "biomemakeover:cladded_chestplate"
+    },
+    {
+      "mob": "minecraft:pillager",
+      "remove": "biomemakeover:cladded_leggings"
+    },
+    {
+      "mob": "minecraft:pillager",
+      "remove": "biomemakeover:cladded_boots"
+    },
+    {
+      "mob": "minecraft:pillager",
+      "remove": "biomemakeover:cladding_upgrade_smithing_template"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:vampiric_glove"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:eternal_steak"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:everlasting_beef"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:umbrella"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:scarf_of_invisibility"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:power_glove"
+    },
+    {
+      "mob": "artifacts:mimic",
+      "remove": "artifacts:helium_flamingo"
+    }
+  ]

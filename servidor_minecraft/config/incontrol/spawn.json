@@ -1,0 +1,22 @@
+[
+    {
+        "mob": "biomemakeover:decayed",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "majruszsdifficulty:giant",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "biomemakeover:dragonfly",
+        "result": "deny",
+        "when": "onjoin"
+    },
+    {
+        "mob": "bygonenether:wither_skeleton_horse",
+        "result": "deny",
+        "when": "onjoin"
+    }
+]
