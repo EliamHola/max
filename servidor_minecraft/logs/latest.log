@@ -5315,3 +5315,18 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Feb2025 07:11:19.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
 [19Feb2025 07:11:39.676] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
 [19Feb2025 07:11:39.676] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[19Feb2025 07:13:23.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [It Belongs in a Museum]
+[19Feb2025 07:13:24.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Acquire Hardware]
+[19Feb2025 07:13:24.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has completed the challenge [Power Crystal]
+[19Feb2025 07:13:54.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Monster Hunter]
+[19Feb2025 07:14:49.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Take Aim]
+[19Feb2025 07:15:29.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 07:15:40.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Diamonds!]
+[19Feb2025 07:16:58.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to 288.735426, 200.000000, -194.749995]
+[19Feb2025 07:17:01.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 fell from a high place
+[19Feb2025 07:17:06.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 284.500000, 85.500000, -190.500000]
+[19Feb2025 07:17:12.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to 253.500000, 200.000000, -176.500000]
+[19Feb2025 07:17:15.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 fell from a high place
+[19Feb2025 07:17:27.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 07:17:46.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to 287.183541, 200.000000, -193.908218]
+[19Feb2025 07:18:31.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Sweet Dreams]

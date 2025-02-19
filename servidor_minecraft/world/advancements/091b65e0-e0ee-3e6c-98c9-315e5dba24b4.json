@@ -2322,7 +2322,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:lukewarm_ocean": "2025-02-19 05:19:09 +0000"
+      "minecraft:lukewarm_ocean": "2025-02-19 05:19:09 +0000",
+      "minecraft:jungle": "2025-02-19 07:07:23 +0000"
     },
     "done": false
   },
@@ -2660,6 +2661,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2025-02-19 05:22:54 +0000",
+      "melon_slice": "2025-02-19 07:16:27 +0000",
       "cod": "2025-02-19 05:58:30 +0000",
       "cooked_salmon": "2025-02-19 06:49:02 +0000"
     },
@@ -2998,6 +3000,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-02-19 05:47:37 +0000",
+      "minecraft:silverfish": "2025-02-19 07:14:05 +0000",
       "minecraft:drowned": "2025-02-19 05:58:24 +0000"
     },
     "done": false
@@ -3614,6 +3617,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-02-19 07:07:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-19 07:03:30 +0000"
@@ -3623,6 +3632,12 @@
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-02-19 07:02:33 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-02-19 07:10:48 +0000"
     },
     "done": true
   },
@@ -3638,9 +3653,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-02-19 07:07:52 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/weird_caviar": {
+    "criteria": {
+      "has_silverfish_eggs": "2025-02-19 07:14:29 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-19 07:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-02-19 07:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-02-19 07:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-19 07:13:36 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:repair_crystal": {
+    "criteria": {
+      "get_repair": "2025-02-19 07:13:24 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:master_bow_collector": {
+    "criteria": {
+      "demons_grasp": "2025-02-19 07:09:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-02-19 07:02:29 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-19 07:10:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-02-19 07:07:52 +0000"
     },
     "done": true
   },
@@ -3650,9 +3725,21 @@
     },
     "done": true
   },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-02-19 07:09:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-19 07:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-02-19 07:07:52 +0000"
     },
     "done": true
   },
@@ -3668,9 +3755,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-02-19 07:10:48 +0000"
+    },
+    "done": true
+  },
+  "too_many_bows:root": {
+    "criteria": {
+      "has_any_bow": "2025-02-19 07:09:12 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
     "criteria": {
       "has_brown_mushroom": "2025-02-19 07:06:51 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2025-02-19 07:09:09 +0000"
     },
     "done": true
   },
