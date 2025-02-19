@@ -5519,3 +5519,12 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Feb2025 08:19:01.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Junior Summoner]
 [19Feb2025 08:21:20.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: The difficulty has been set to Hard]
 [19Feb2025 08:22:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Let's Get To Work]
+[19Feb2025 08:22:50.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2376.500000, 64.500000, -587.500000]
+[19Feb2025 08:23:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 08:24:56.306] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28811, l='ServerLevel[New World]', x=2377.50, y=73.00, z=-568.50]
+[19Feb2025 08:25:06.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[19Feb2025 08:25:49.206] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28952, l='ServerLevel[New World]', x=2407.50, y=71.00, z=-582.50]
+[19Feb2025 08:26:04.655] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/28983, l='ServerLevel[New World]', x=2405.50, y=71.00, z=-582.50]
+[19Feb2025 08:28:42.356] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29228, l='ServerLevel[New World]', x=2405.50, y=71.00, z=-583.50]
+[19Feb2025 08:30:50.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
+[19Feb2025 08:30:53.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]

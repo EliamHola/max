@@ -2327,6 +2327,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-02-19 07:20:31 +0000",
+      "minecraft:beach": "2025-02-19 08:22:51 +0000",
       "minecraft:sparse_jungle": "2025-02-19 08:16:16 +0000",
       "minecraft:lukewarm_ocean": "2025-02-19 05:19:09 +0000",
       "minecraft:river": "2025-02-19 07:19:50 +0000",
@@ -3677,6 +3678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-19 08:22:30 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
@@ -4713,6 +4720,12 @@
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/watercraft_frame_angled": {
+    "criteria": {
+      "has_scaffolding": "2025-02-19 08:25:11 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
@@ -4734,6 +4747,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-19 07:23:02 +0000"
+    },
+    "done": true
+  },
+  "alekiships:recipes/crafting/crafting/watercraft_frame_flat": {
+    "criteria": {
+      "has_scaffolding": "2025-02-19 08:25:11 +0000"
     },
     "done": true
   },

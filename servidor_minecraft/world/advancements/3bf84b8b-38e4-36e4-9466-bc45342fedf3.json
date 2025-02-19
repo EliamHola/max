@@ -1512,6 +1512,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-02-19 07:20:34 +0000",
+      "minecraft:beach": "2025-02-19 08:23:15 +0000",
       "minecraft:sparse_jungle": "2025-02-19 08:07:43 +0000",
       "minecraft:lukewarm_ocean": "2025-02-19 07:00:19 +0000",
       "minecraft:river": "2025-02-19 07:19:51 +0000",
@@ -5053,7 +5054,8 @@
     "criteria": {
       "brewingstand": "2025-02-19 07:58:03 +0000",
       "grindstone": "2025-02-19 08:21:52 +0000",
-      "smithingtable": "2025-02-19 08:21:49 +0000"
+      "smithingtable": "2025-02-19 08:21:49 +0000",
+      "blastfurnace": "2025-02-19 08:22:31 +0000"
     },
     "done": false
   },
@@ -5087,6 +5089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-19 08:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-19 08:18:15 +0000"
@@ -5096,6 +5104,12 @@
   "galosphere:recipes/tools/barometer": {
     "criteria": {
       "has_redstone": "2025-02-19 08:17:57 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-02-19 08:29:53 +0000"
     },
     "done": true
   },
