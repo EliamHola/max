@@ -3012,6 +3012,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-19 07:38:44 +0000",
       "minecraft:spider": "2025-02-19 05:47:37 +0000",
+      "minecraft:husk": "2025-02-19 08:44:02 +0000",
       "minecraft:silverfish": "2025-02-19 07:14:05 +0000",
       "minecraft:zombie": "2025-02-19 07:37:52 +0000",
       "minecraft:drowned": "2025-02-19 05:58:24 +0000"
@@ -3726,6 +3727,12 @@
     },
     "done": true
   },
+  "alekiships:recipes/crafting/crafting/cannon": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-19 08:52:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-02-19 07:23:51 +0000"
@@ -3858,6 +3865,12 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/coconut_wood": {
+    "criteria": {
+      "has_log": "2025-02-19 08:43:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/jungle_window": {
     "criteria": {
       "has_ingredient": "2025-02-19 07:23:51 +0000"
@@ -3873,6 +3886,12 @@
   "betterarcheology:recipes/combat/bomb": {
     "criteria": {
       "has_gunpowder": "2025-02-19 07:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-19 08:52:04 +0000"
     },
     "done": true
   },
@@ -4073,6 +4092,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-02-19 07:48:01 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/coconut_planks": {
+    "criteria": {
+      "has_logs": "2025-02-19 08:43:33 +0000"
     },
     "done": true
   },
@@ -4324,6 +4349,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-19 08:52:04 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
@@ -4522,6 +4553,12 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-02-19 08:43:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-19 08:10:33 +0000"
@@ -4711,6 +4748,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-19 07:23:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-19 08:52:04 +0000"
     },
     "done": true
   },
