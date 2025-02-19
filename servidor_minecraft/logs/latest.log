@@ -5280,3 +5280,14 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Feb2025 06:49:39.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
 [19Feb2025 06:49:39.115] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
 [19Feb2025 06:49:39.288] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
+[19Feb2025 06:53:57.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[19Feb2025 06:53:57.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[19Feb2025 06:54:15.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliamDios[/127.67.90.126:45177] logged in with entity id 5885 at (25.650270534945147, 64.0, 91.20142648240657)
+[19Feb2025 06:54:15.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
+[19Feb2025 06:54:15.954] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
+[19Feb2025 06:54:16.090] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
+[19Feb2025 06:59:31.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loko384[/127.133.119.214:34837] logged in with entity id 6972 at (55.5, 70.0, 10.5)
+[19Feb2025 06:59:31.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
+[19Feb2025 06:59:32.022] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
+[19Feb2025 06:59:34.317] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[19Feb2025 07:00:04.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Dungeon Now Loading]
