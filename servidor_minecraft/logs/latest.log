@@ -5528,3 +5528,13 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Feb2025 08:28:42.356] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29228, l='ServerLevel[New World]', x=2405.50, y=71.00, z=-583.50]
 [19Feb2025 08:30:50.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
 [19Feb2025 08:30:53.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
+[19Feb2025 08:34:59.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported Loko384 to EliamDios]
+[19Feb2025 08:36:07.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported Loko384 to EliamDios]
+[19Feb2025 08:36:12.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Corpse Fly
+[19Feb2025 08:39:01.505] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31148, l='ServerLevel[New World]', x=2394.50, y=73.00, z=-604.50]
+[19Feb2025 08:41:18.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2377, y=65, z=-605} BlockPos{x=2376, y=65, z=-605}
+[19Feb2025 08:41:21.624] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:jungle_log}[axis=y]
+Tool: 1 iron_axe
+Pos: BlockPos{x=2374, y=79, z=-607}
+[19Feb2025 08:41:41.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [This Must be a Sign!]
