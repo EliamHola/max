@@ -5493,3 +5493,29 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Feb2025 08:11:20.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3085ms or 61 ticks behind
 [19Feb2025 08:11:38.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
 [19Feb2025 08:12:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
+[19Feb2025 08:14:45.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
+[19Feb2025 08:15:02.546] [Worker-Main-6/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[19Feb2025 08:15:03.279] [Worker-Main-7/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[19Feb2025 08:15:36.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2828ms or 56 ticks behind
+[19Feb2025 08:15:56.073] [pool-8-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / valhelsia_structures:castle], ResourceKey[minecraft:worldgen/structure / valhelsia_structures:castle_ruin], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands]] from pos BlockPos{x=2379, y=67, z=-629}
+[19Feb2025 08:17:54.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 08:18:39.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 08:18:48.736] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Feb2025 08:18:48.736] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[19Feb2025 08:18:48.737] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 10 arrow
+[19Feb2025 08:18:48.737] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Feb2025 08:18:48.737] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[19Feb2025 08:18:49.485] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Feb2025 08:18:49.486] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[19Feb2025 08:18:49.487] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 10 arrow
+[19Feb2025 08:18:49.488] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Feb2025 08:18:49.488] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[19Feb2025 08:18:50.125] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Feb2025 08:18:50.125] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[19Feb2025 08:18:50.126] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 10 arrow
+[19Feb2025 08:18:50.126] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Feb2025 08:18:50.126] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 0
+[19Feb2025 08:18:50.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
+[19Feb2025 08:19:01.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Junior Summoner]
+[19Feb2025 08:21:20.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: The difficulty has been set to Hard]
+[19Feb2025 08:22:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Let's Get To Work]
