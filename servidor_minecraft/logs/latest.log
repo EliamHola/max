@@ -5330,3 +5330,14 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Feb2025 07:17:27.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
 [19Feb2025 07:17:46.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to 287.183541, 200.000000, -193.908218]
 [19Feb2025 07:18:31.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Sweet Dreams]
+[19Feb2025 07:22:05.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3318ms or 66 ticks behind
+[19Feb2025 07:22:32.507] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[19Feb2025 07:22:32.508] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[19Feb2025 07:22:32.509] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[19Feb2025 07:22:49.649] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[19Feb2025 07:22:49.649] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[19Feb2025 07:22:50.052] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[19Feb2025 07:23:02.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Stone Age]
+[19Feb2025 07:24:52.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
+[19Feb2025 07:30:26.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Suit Up]
+[19Feb2025 07:30:44.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Isn't It Iron Pick]

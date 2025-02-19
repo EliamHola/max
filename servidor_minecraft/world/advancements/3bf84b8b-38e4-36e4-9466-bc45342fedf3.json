@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-19 07:18:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-02-19 07:00:40 +0000"
@@ -518,6 +524,12 @@
   "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
     "criteria": {
       "has_chest": "2025-02-19 07:03:51 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-02-19 07:24:21 +0000"
     },
     "done": true
   },
@@ -1145,6 +1157,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-19 07:24:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-19 07:00:38 +0000"
@@ -1352,6 +1370,12 @@
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-02-19 07:00:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-19 07:23:22 +0000"
     },
     "done": true
   },
@@ -1841,6 +1865,13 @@
     },
     "done": true
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "sparse_redwoods": "2025-02-19 07:19:58 +0000",
+      "redwoods": "2025-02-19 07:22:07 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-02-19 07:00:07 +0000"
@@ -2002,6 +2033,13 @@
     "criteria": {
       "emerald_sage_bow": "2025-02-19 07:09:14 +0000",
       "cyroheart_bow": "2025-02-19 07:13:23 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "sparse_redwoods": "2025-02-19 07:19:58 +0000",
+      "redwoods": "2025-02-19 07:22:07 +0000"
     },
     "done": false
   },
@@ -2170,6 +2208,12 @@
   "woodworks:recipes/building_blocks/chiseled_spruce_bookshelf": {
     "criteria": {
       "has_book": "2025-02-19 07:03:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-19 07:24:21 +0000"
     },
     "done": true
   },
@@ -2495,6 +2539,12 @@
   "supplementaries:recipes/cage": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 07:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-19 07:19:45 +0000"
     },
     "done": true
   },
@@ -3430,6 +3480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-19 07:19:45 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-02-19 06:59:32 +0000"
@@ -3598,6 +3654,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-02-19 07:24:21 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
     "criteria": {
       "has_template": "2025-02-19 06:59:32 +0000"
@@ -3736,6 +3798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-19 07:22:42 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/spruce_drawers": {
     "criteria": {
       "has_chest": "2025-02-19 07:03:51 +0000"
@@ -3865,6 +3933,12 @@
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-19 07:00:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coals": "2025-02-19 07:22:42 +0000"
     },
     "done": true
   },
@@ -4147,7 +4221,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-02-19 07:20:34 +0000",
       "minecraft:lukewarm_ocean": "2025-02-19 07:00:19 +0000",
+      "minecraft:river": "2025-02-19 07:19:51 +0000",
       "minecraft:jungle": "2025-02-19 07:07:38 +0000"
     },
     "done": false
