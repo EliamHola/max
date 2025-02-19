@@ -4223,6 +4223,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/stripped_jungle_post": {
+    "criteria": {
+      "has_item": "2025-02-19 09:02:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-19 07:06:51 +0000"
@@ -4397,6 +4403,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/jungle_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-02-19 09:02:04 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
@@ -4418,6 +4430,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-19 09:02:04 +0000"
     },
     "done": true
   },
@@ -4790,6 +4808,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-19 07:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-19 09:02:04 +0000"
     },
     "done": true
   },
