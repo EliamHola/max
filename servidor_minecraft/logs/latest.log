@@ -5539,3 +5539,11 @@ Tool: 1 iron_axe
 Pos: BlockPos{x=2374, y=79, z=-607}
 [19Feb2025 08:41:41.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [This Must be a Sign!]
 [19Feb2025 09:01:38.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2399, y=63, z=-613} BlockPos{x=2405, y=66, z=-625}
+[19Feb2025 09:07:12.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[19Feb2025 09:07:12.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[19Feb2025 09:07:19.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliamDios[/127.67.90.126:42557] logged in with entity id 35869 at (2392.5025287188178, 66.5625, -572.8932232804808)
+[19Feb2025 09:07:19.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
+[19Feb2025 09:07:19.130] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
+[19Feb2025 09:07:19.488] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
+[19Feb2025 09:08:43.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Yesler's Wharf]
+[19Feb2025 09:13:06.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 moved wrongly!
