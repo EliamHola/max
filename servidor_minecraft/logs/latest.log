@@ -5445,3 +5445,26 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Feb2025 07:48:47.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
 [19Feb2025 07:50:14.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Smashing Success]
 [19Feb2025 07:50:36.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Disme A Dozen]
+[19Feb2025 07:58:03.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Let's Get To Work]
+[19Feb2025 07:58:26.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 1261.500000, 101.500000, -373.500000]
+[19Feb2025 07:58:31.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[19Feb2025 07:59:48.650] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[19Feb2025 07:59:48.650] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[19Feb2025 07:59:48.650] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[19Feb2025 07:59:58.601] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[19Feb2025 07:59:58.602] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[19Feb2025 08:00:09.684] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[19Feb2025 08:00:09.684] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003ߚ��",
+  "f_134722_": 22108,
+  "fmlVersion": "NONE"
+}
+[19Feb2025 08:00:09.685] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 96 extra bytes: 
+[19Feb2025 08:00:09.685] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "oT{V@#H&Je~Wl&)@ 4mG0ba #-ox|hQI&+/,0/5"
+]
+[19Feb2025 08:00:12.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported EliamDios to Loko384]
+[19Feb2025 08:02:20.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]

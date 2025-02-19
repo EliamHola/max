@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/jungle_desk": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:16:06 +0000"
@@ -200,6 +206,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-02-19 06:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-02-19 07:54:27 +0000"
     },
     "done": true
   },
@@ -527,6 +539,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-19 07:00:38 +0000"
@@ -554,6 +572,12 @@
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-02-19 06:59:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
     },
     "done": true
   },
@@ -1025,6 +1049,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/oak_seat": {
     "criteria": {
       "has_plank": "2025-02-19 07:00:01 +0000"
@@ -1064,6 +1094,12 @@
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2025-02-19 07:09:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-19 07:53:40 +0000"
     },
     "done": true
   },
@@ -1277,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-19 07:53:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-02-19 07:00:40 +0000"
@@ -1319,6 +1361,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-19 07:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 07:13:24 +0000"
@@ -1352,6 +1400,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-02-19 07:10:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-19 07:53:40 +0000"
     },
     "done": true
   },
@@ -1402,6 +1456,12 @@
       "custom_test_name": "2025-02-19 06:59:32 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "brewingstand": "2025-02-19 07:58:03 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
@@ -1472,6 +1532,12 @@
   "woodworks:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2025-02-19 07:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-19 07:53:34 +0000"
     },
     "done": true
   },
@@ -1655,6 +1721,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2025-02-19 07:03:51 +0000"
@@ -1703,6 +1775,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/cherry_bookshelf": {
     "criteria": {
       "has_book": "2025-02-19 07:03:25 +0000"
@@ -1745,6 +1823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-19 07:59:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-02-19 07:00:40 +0000"
@@ -1754,6 +1838,12 @@
   "dungeonnowloading:story/root": {
     "criteria": {
       "obtain_crafting_table": "2025-02-19 07:00:04 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-02-19 07:56:45 +0000"
     },
     "done": true
   },
@@ -2009,6 +2099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-19 07:59:12 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:16:06 +0000"
@@ -2053,6 +2149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-19 07:53:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/green_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-02-19 07:13:24 +0000"
@@ -2074,6 +2176,12 @@
   "ecologics:recipes/ecologics/coconut_boat": {
     "criteria": {
       "in_water": "2025-02-19 07:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-19 07:54:27 +0000"
     },
     "done": true
   },
@@ -2334,6 +2442,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-02-19 07:53:40 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/glow_ink_pasta": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-19 07:53:34 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/birch_bookshelf": {
     "criteria": {
       "has_book": "2025-02-19 07:03:25 +0000"
@@ -2478,6 +2598,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/bandage": {
     "criteria": {
       "has_string": "2025-02-19 07:01:37 +0000"
@@ -2487,6 +2613,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-19 07:47:20 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
     },
     "done": true
   },
@@ -2755,6 +2887,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cage": {
     "criteria": {
       "has_iron_ingot": "2025-02-19 07:13:24 +0000"
@@ -2800,6 +2938,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-19 07:56:17 +0000",
       "minecraft:spider": "2025-02-19 07:41:18 +0000",
       "minecraft:silverfish": "2025-02-19 07:13:54 +0000"
     },
@@ -2877,6 +3016,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_items": "2025-02-19 06:59:32 +0000"
@@ -2913,6 +3058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-19 07:53:40 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/chiseled_acacia_bookshelf": {
     "criteria": {
       "has_book": "2025-02-19 07:03:25 +0000"
@@ -2937,6 +3088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-19 07:53:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-02-19 07:51:59 +0000"
@@ -2949,9 +3106,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-02-19 07:56:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-19 07:15:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-19 07:53:45 +0000"
     },
     "done": true
   },
@@ -2970,6 +3145,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-19 07:09:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
     },
     "done": true
   },
@@ -3121,6 +3302,12 @@
   "oceansdelight:recipes/oceansdelight/seagrass_salad": {
     "criteria": {
       "has_seagrass": "2025-02-19 07:00:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-19 07:53:45 +0000"
     },
     "done": true
   },
@@ -3502,6 +3689,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
       "has_items": "2025-02-19 06:59:32 +0000"
@@ -3583,6 +3782,12 @@
   "regions_unexplored:recipes/transportation/blackwood_boat": {
     "criteria": {
       "in_water": "2025-02-19 07:00:40 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "brewingstand": "2025-02-19 07:58:03 +0000"
     },
     "done": true
   },
@@ -3796,6 +4001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-19 07:53:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-02-19 07:19:45 +0000"
@@ -3865,6 +4076,12 @@
   "valhelsia_structures:recipes/building_blocks/jungle_post": {
     "criteria": {
       "has_item": "2025-02-19 07:08:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
     },
     "done": true
   },
@@ -3953,6 +4170,12 @@
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
       "has_planks": "2025-02-19 06:59:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-19 07:53:40 +0000"
     },
     "done": true
   },
@@ -4316,6 +4539,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/spruce_trim": {
     "criteria": {
       "has_planks": "2025-02-19 06:59:32 +0000"
@@ -4614,6 +4843,12 @@
   "woodworks:recipes/building_blocks/dark_oak_bookshelf": {
     "criteria": {
       "has_book": "2025-02-19 07:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-19 07:57:57 +0000"
     },
     "done": true
   },

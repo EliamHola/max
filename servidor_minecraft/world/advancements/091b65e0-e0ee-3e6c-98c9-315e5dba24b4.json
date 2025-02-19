@@ -3678,6 +3678,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/food/cooked_pike_from_campfire_cooking": {
+    "criteria": {
+      "has_pike": "2025-02-19 07:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-19 07:03:30 +0000"
@@ -3936,6 +3942,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/food/cooked_pike_from_smoking": {
+    "criteria": {
+      "has_pike": "2025-02-19 07:59:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_item": "2025-02-19 07:23:51 +0000"
@@ -3957,6 +3969,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-02-19 07:57:23 +0000"
     },
     "done": true
   },
@@ -4123,6 +4141,12 @@
   "endrem:main/rogue_eye": {
     "criteria": {
       "rogue_eye": "2025-02-19 07:09:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-19 07:57:46 +0000"
     },
     "done": true
   },
@@ -4309,6 +4333,18 @@
   "valhelsia_furniture:recipes/decorations/purple_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-02-19 07:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-19 07:57:46 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_pike": {
+    "criteria": {
+      "has_pike": "2025-02-19 07:59:13 +0000"
     },
     "done": true
   },
@@ -4561,6 +4597,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-19 07:37:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-19 07:57:46 +0000"
     },
     "done": true
   },
