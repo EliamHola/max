@@ -5215,3 +5215,62 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [19Feb2025 06:22:28.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8057ms or 161 ticks behind
 [19Feb2025 06:22:40.306] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-94, y=-49, z=220}
 [19Feb2025 06:22:40.307] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-94, y=-49, z=219}
+[19Feb2025 06:31:13.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[19Feb2025 06:31:13.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[19Feb2025 06:31:18.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliamDios[/127.67.90.126:42063] logged in with entity id 1855 at (23.817106142945125, 66.0, 91.32218568978296)
+[19Feb2025 06:31:18.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
+[19Feb2025 06:31:18.269] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
+[19Feb2025 06:31:18.570] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
+[19Feb2025 06:32:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Not Today, Thank You]
+[19Feb2025 06:33:16.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[19Feb2025 06:33:16.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[19Feb2025 06:33:21.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliamDios[/127.67.90.126:37137] logged in with entity id 2200 at (25.30000001192093, 64.0, 92.2419671352781)
+[19Feb2025 06:33:21.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
+[19Feb2025 06:33:22.040] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
+[19Feb2025 06:33:22.156] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
+[19Feb2025 06:33:35.870] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[19Feb2025 06:33:35.878] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003X!��",
+  "f_134722_": 56954,
+  "fmlVersion": "NONE"
+}
+[19Feb2025 06:33:35.879] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 180 extra bytes: 
+[19Feb2025 06:33:35.890] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "{qqM^du>N %ER^pW<Y&+/,0/526.ip.gl.ply.gg"
+]
+[19Feb2025 06:33:37.718] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[19Feb2025 06:33:37.719] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003\b�j�",
+  "f_134722_": 47394,
+  "fmlVersion": "NONE"
+}
+[19Feb2025 06:33:37.719] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 141 extra bytes: 
+[19Feb2025 06:33:37.720] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "`E- ((wv ~eilz[W@@9`n&+/,0/526.ip.gl.ply.gg"
+]
+[19Feb2025 06:33:53.016] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[19Feb2025 06:33:53.016] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 225,
+  "f_134721_": "",
+  "f_134722_": 221,
+  "fmlVersion": "NONE"
+}
+[19Feb2025 06:33:53.017] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 109 extra bytes: 
+[19Feb2025 06:33:53.017] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "@V+$7t51 nc]/xDh+g(32j<5/$0@89#"
+]
+[19Feb2025 06:35:53.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Diamonds!]
+[19Feb2025 06:37:13.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[19Feb2025 06:37:13.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[19Feb2025 06:37:18.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliamDios[/127.67.90.126:53459] logged in with entity id 3001 at (25.520226219699662, 64.0, 91.66608226581594)
+[19Feb2025 06:37:18.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
+[19Feb2025 06:37:18.727] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
+[19Feb2025 06:37:18.899] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
