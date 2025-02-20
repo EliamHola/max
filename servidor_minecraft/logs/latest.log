@@ -5224,3 +5224,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Feb2025 07:55:37.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
 [20Feb2025 07:55:37.103] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
 [20Feb2025 07:55:37.372] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
+[20Feb2025 08:06:25.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Amateur Archaeologist]
+[20Feb2025 08:11:01.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2392.500000, 66.500000, -570.500000]
+[20Feb2025 08:12:16.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2458.500000, 63.500000, -343.500000]
