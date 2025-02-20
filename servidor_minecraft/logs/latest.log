@@ -5218,3 +5218,9 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20Feb2025 07:20:54.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Penteconter]
 [20Feb2025 07:21:19.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2705.500000, 66.500000, -431.500000]
 [20Feb2025 07:21:33.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2391.500000, 65.500000, -576.500000]
+[20Feb2025 07:55:25.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[20Feb2025 07:55:25.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[20Feb2025 07:55:37.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliamDios[/127.67.90.126:53581] logged in with entity id 2677 at (2449.840264192373, 63.22638931274415, -387.7351367552698)
+[20Feb2025 07:55:37.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
+[20Feb2025 07:55:37.103] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
+[20Feb2025 07:55:37.372] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
