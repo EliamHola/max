@@ -5484,15 +5484,105 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/lime_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/green_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/gray_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/purple_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_jungle_trapdoor": "2025-02-22 05:26:04 +0000"
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/red_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/pink_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/orange_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brown_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/magenta_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/light_gray_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/black_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
     "criteria": {
       "has_chain": "2025-02-22 05:48:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/yellow_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/light_blue_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/blue_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/cyan_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_item": "2025-02-22 06:06:47 +0000"
     },
     "done": true
   },
