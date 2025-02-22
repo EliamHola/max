@@ -5171,6 +5171,24 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-20 08:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-02-20 08:17:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-02-20 08:17:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-02-20 08:38:50 +0000"
@@ -5243,12 +5261,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_horse_armor": "2025-02-20 08:17:02 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/dark_oak_desk_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-20 08:38:50 +0000"
@@ -5303,12 +5315,6 @@
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-02-20 08:06:25 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-20 08:38:50 +0000"
@@ -5330,12 +5336,6 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-20 08:38:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_horse_armor": "2025-02-20 08:17:02 +0000"
     },
     "done": true
   },
@@ -5480,6 +5480,12 @@
   "valhelsia_furniture:recipes/decorations/pink_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-20 08:38:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2025-02-22 05:26:04 +0000"
     },
     "done": true
   },
