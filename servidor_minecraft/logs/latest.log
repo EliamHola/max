@@ -5525,3 +5525,81 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [
   "DU|F&121@d6}F^Q52068,0/$(k#'g93=<5/"
 ]
+[22Feb2025 08:22:02.998] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 08:22:02.999] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003�\r<�",
+  "f_134722_": 41927,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 08:22:02.999] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 119 extra bytes: 
+[22Feb2025 08:22:02.999] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "vP<9$P; ZB*FlZtA?66a+/,0/526.ip.gl.ply.gg"
+]
+[22Feb2025 08:22:03.163] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 08:22:03.163] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003[E��",
+  "f_134722_": 6857,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 08:22:03.164] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 183 extra bytes: 
+[22Feb2025 08:22:03.164] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "UGgM!r2eC b6q6nRx8g&+/,0/526.ip.gl.ply.gg"
+]
+[22Feb2025 08:22:04.600] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 08:22:04.600] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003�\u0002��",
+  "f_134722_": 6251,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 08:22:04.601] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 168 extra bytes: 
+[22Feb2025 08:22:04.601] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "LaRGWC>~w lJq&7+]g1<4&+/,/526.ipgl.ply.gg"
+]
+[22Feb2025 08:22:04.894] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 08:22:04.894] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003�';�",
+  "f_134722_": 21915,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 08:22:04.894] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 127 extra bytes: 
+[22Feb2025 08:22:04.895] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$YuQ43 ,>yjkiTdvlJj&+/0/526.ip.gl.ply.gg"
+]
+[22Feb2025 08:22:05.256] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 08:22:05.257] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003@:\u0006e",
+  "f_134722_": 64271,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 08:22:05.257] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 120 extra bytes: 
+[22Feb2025 08:22:05.257] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3S&YsC5f' *'xgx: bCl=&+/,0/526.ip.gl.ply.gg"
+]
+[22Feb2025 08:22:17.475] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 08:22:17.475] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 225,
+  "f_134721_": "",
+  "f_134722_": 221,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 08:22:17.475] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 81 extra bytes: 
+[22Feb2025 08:22:17.475] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "@SJoWgo0ZWh@2$j#g<0"
+]
