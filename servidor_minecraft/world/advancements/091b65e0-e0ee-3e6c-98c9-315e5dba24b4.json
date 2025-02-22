@@ -5490,5 +5490,11 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_chain": "2025-02-22 05:48:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

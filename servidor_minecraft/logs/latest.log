@@ -5307,3 +5307,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [22Feb2025 05:49:46.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2438.500000, 58.500000, -422.500000]
 [22Feb2025 05:49:53.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Deepling Brute
 [22Feb2025 05:50:30.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2432.500000, 61.500000, -413.500000]
+[22Feb2025 05:51:44.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Ocean Creeper
+[22Feb2025 05:51:51.947] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity WindlassSwitchEntity['Windlass'/9509, l='ServerLevel[New World]', x=2459.62, y=63.48, z=-382.71] as it would cause deadlock
+[22Feb2025 05:52:21.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
