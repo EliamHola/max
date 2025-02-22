@@ -5310,3 +5310,139 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [22Feb2025 05:51:44.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Ocean Creeper
 [22Feb2025 05:51:51.947] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity WindlassSwitchEntity['Windlass'/9509, l='ServerLevel[New World]', x=2459.62, y=63.48, z=-382.71] as it would cause deadlock
 [22Feb2025 05:52:21.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[22Feb2025 06:14:33.338] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12556, l='ServerLevel[New World]', x=2556.50, y=-3.00, z=-827.50] as it would cause deadlock
+[22Feb2025 06:14:33.554] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12562, l='ServerLevel[New World]', x=2586.50, y=-3.00, z=-795.50] as it would cause deadlock
+[22Feb2025 06:14:37.164] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2525, y=-54, z=-858}
+[22Feb2025 06:14:37.164] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2525, y=-53, z=-857}
+[22Feb2025 06:14:37.164] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2525, y=-54, z=-858}
+[22Feb2025 06:14:37.164] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2525, y=-53, z=-857}
+[22Feb2025 06:14:37.198] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/12602, l='ServerLevel[New World]', x=2594.50, y=-3.00, z=-795.50] as it would cause deadlock
+[22Feb2025 06:14:38.621] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12618, l='ServerLevel[New World]', x=2544.50, y=-53.00, z=-859.50] as it would cause deadlock
+[22Feb2025 06:14:39.030] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12624, l='ServerLevel[New World]', x=2569.50, y=-53.00, z=-859.50] as it would cause deadlock
+[22Feb2025 06:14:39.596] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12654, l='ServerLevel[New World]', x=2544.50, y=-53.00, z=-867.50] as it would cause deadlock
+[22Feb2025 06:14:44.754] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12767, l='ServerLevel[New World]', x=2666.50, y=22.00, z=-770.50] as it would cause deadlock
+[22Feb2025 06:14:44.755] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12769, l='ServerLevel[New World]', x=2658.50, y=22.00, z=-770.50] as it would cause deadlock
+[22Feb2025 06:14:53.858] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/12908, l='ServerLevel[New World]', x=2569.50, y=-53.00, z=-867.50] as it would cause deadlock
+[22Feb2025 06:15:00.803] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13055, l='ServerLevel[New World]', x=2604.50, y=-53.00, z=-902.50] as it would cause deadlock
+[22Feb2025 06:15:06.082] [Worker-Main-5/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13151, l='ServerLevel[New World]', x=2612.50, y=-53.00, z=-902.50] as it would cause deadlock
+[22Feb2025 06:15:06.109] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2622, y=22, z=-909}
+[22Feb2025 06:15:06.110] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2622, y=22, z=-909}
+[22Feb2025 06:15:07.155] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/13182, l='ServerLevel[New World]', x=2537.50, y=-53.00, z=-934.50] as it would cause deadlock
+[22Feb2025 06:15:07.234] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/13186, l='ServerLevel[New World]', x=2506.50, y=-3.00, z=-940.50] as it would cause deadlock
+[22Feb2025 06:15:09.025] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2653, y=22, z=-902}
+[22Feb2025 06:15:09.025] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2653, y=22, z=-902}
+[22Feb2025 06:15:10.879] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2625, y=-54, z=-929}
+[22Feb2025 06:15:10.879] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2625, y=-54, z=-929}
+[22Feb2025 06:15:15.075] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13362, l='ServerLevel[New World]', x=2701.50, y=22.00, z=-836.50] as it would cause deadlock
+[22Feb2025 06:15:15.075] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13364, l='ServerLevel[New World]', x=2693.50, y=22.00, z=-836.50] as it would cause deadlock
+[22Feb2025 06:15:16.928] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2718, y=-54, z=-876}
+[22Feb2025 06:15:16.928] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2718, y=-54, z=-876}
+[22Feb2025 06:15:16.972] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2717, y=-54, z=-860}
+[22Feb2025 06:15:16.972] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2717, y=-54, z=-860}
+[22Feb2025 06:15:21.478] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[22Feb2025 06:15:22.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6388ms or 127 ticks behind
+[22Feb2025 06:15:23.453] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13480, l='ServerLevel[New World]', x=2511.50, y=-28.00, z=-959.50] as it would cause deadlock
+[22Feb2025 06:15:23.463] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2504, y=-4, z=-954}
+[22Feb2025 06:15:23.464] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2505, y=-3, z=-954}
+[22Feb2025 06:15:23.464] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2504, y=-4, z=-954}
+[22Feb2025 06:15:23.464] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2505, y=-3, z=-954}
+[22Feb2025 06:15:23.524] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13487, l='ServerLevel[New World]', x=2534.50, y=-3.00, z=-952.50] as it would cause deadlock
+[22Feb2025 06:15:23.524] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13489, l='ServerLevel[New World]', x=2534.50, y=-3.00, z=-944.50] as it would cause deadlock
+[22Feb2025 06:15:23.576] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13492, l='ServerLevel[New World]', x=2556.50, y=22.00, z=-953.50] as it would cause deadlock
+[22Feb2025 06:15:23.676] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[22Feb2025 06:15:23.827] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/13501, l='ServerLevel[New World]', x=2568.50, y=22.00, z=-953.50] as it would cause deadlock
+[22Feb2025 06:15:24.051] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13504, l='ServerLevel[New World]', x=2629.50, y=-3.00, z=-945.50] as it would cause deadlock
+[22Feb2025 06:15:24.052] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13506, l='ServerLevel[New World]', x=2637.50, y=-3.00, z=-945.50] as it would cause deadlock
+[22Feb2025 06:15:27.434] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2540, y=-29, z=-974}
+[22Feb2025 06:15:27.434] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2540, y=-29, z=-974}
+[22Feb2025 06:15:27.435] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13546, l='ServerLevel[New World]', x=2539.50, y=-41.00, z=-971.50] as it would cause deadlock
+[22Feb2025 06:15:27.705] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13554, l='ServerLevel[New World]', x=2511.50, y=-28.00, z=-967.50] as it would cause deadlock
+[22Feb2025 06:15:28.703] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2694, y=-3, z=-960}
+[22Feb2025 06:15:28.703] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2694, y=-3, z=-960}
+[22Feb2025 06:15:30.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Bloodthirsty]
+[22Feb2025 06:15:30.873] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2695, y=-4, z=-961}
+[22Feb2025 06:15:30.873] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2695, y=-4, z=-961}
+[22Feb2025 06:15:40.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[22Feb2025 06:15:50.455] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13413, l='ServerLevel[New World]', x=2670.37, y=28.00, z=-904.28] died, message: 'Unemployed suffocated in a wall'
+[22Feb2025 06:15:59.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [First Village]
+[22Feb2025 06:16:04.551] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 06:16:04.552] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003{1q�",
+  "f_134722_": 36331,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 06:16:04.552] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 91 extra bytes: 
+[22Feb2025 06:16:04.552] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">}.\\<CL :N}8.ygIY`GcU$}&+/,0/5"
+]
+[22Feb2025 06:16:04.702] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 06:16:04.703] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003�y\u0003=",
+  "f_134722_": 8325,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 06:16:04.703] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 118 extra bytes: 
+[22Feb2025 06:16:04.703] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "v+Zq2ULrs S&(gG|$v&+/,0/526.ip.gl.ply.gg"
+]
+[22Feb2025 06:16:07.924] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 06:16:07.924] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003��2\b",
+  "f_134722_": 53584,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 06:16:07.924] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 120 extra bytes: 
+[22Feb2025 06:16:07.924] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "nv?Si/Zh $PW*ygx>tIu&+/,0/526.ip.gl.ply.gg"
+]
+[22Feb2025 06:16:08.567] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 06:16:08.568] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003\b��$",
+  "f_134722_": 23987,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 06:16:08.568] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 121 extra bytes: 
+[22Feb2025 06:16:08.568] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "^mEG.P - 8i~DQ$&+/,0/526.ip.gl.ply.gg"
+]
+[22Feb2025 06:16:29.021] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 06:16:29.021] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 225,
+  "f_134721_": "",
+  "f_134722_": 221,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 06:16:29.022] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 167 extra bytes: 
+[22Feb2025 06:16:29.022] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~AuYrCj$kdZh,8=jf+/<@#02g(9k3$5'L26.ip.gl.ply.gg"
+]
+[22Feb2025 06:16:30.756] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Feb2025 06:16:30.757] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 213,
+  "f_134721_": "",
+  "f_134722_": 209,
+  "fmlVersion": "NONE"
+}
+[22Feb2025 06:16:30.757] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 30 extra bytes: 
+[22Feb2025 06:16:30.757] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "%7l0Wg'p89;4!"
+]
+[22Feb2025 06:16:39.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[22Feb2025 06:20:52.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: Disconnected
+[22Feb2025 06:20:52.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game
