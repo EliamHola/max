@@ -5446,3 +5446,27 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [22Feb2025 06:16:39.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
 [22Feb2025 06:20:52.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: Disconnected
 [22Feb2025 06:20:52.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game
+[22Feb2025 06:21:18.575] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/13399, l='ServerLevel[New World]', x=2694.88, y=45.00, z=-873.30] died, message: 'Forester was slain by Zombie'
+[22Feb2025 06:21:56.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/13446, l='ServerLevel[New World]', x=2679.70, y=33.00, z=-889.58] died, message: 'Shepherd hit the ground too hard whilst trying to escape Decaying Zombie'
+[22Feb2025 06:22:23.249] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/13678, l='ServerLevel[New World]', x=2688.30, y=25.42, z=-935.62] died, message: 'Forester bled to death'
+[22Feb2025 06:22:25.855] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[22Feb2025 06:22:45.715] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/13447, l='ServerLevel[New World]', x=2696.64, y=49.00, z=-851.59] died, message: 'Shepherd was slain by Zombie'
+[22Feb2025 06:23:00.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/13455, l='ServerLevel[New World]', x=2701.36, y=48.19, z=-877.36] died, message: 'Engineer bled to death'
+[22Feb2025 06:23:59.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/13439, l='ServerLevel[New World]', x=2681.30, y=44.00, z=-887.06] died, message: 'Mason was slain by Spider'
+[22Feb2025 06:24:25.348] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/13257, l='ServerLevel[New World]', x=2682.44, y=45.00, z=-870.51] died, message: 'Engineer was slain by Spider'
+[22Feb2025 06:24:33.345] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/13326, l='ServerLevel[New World]', x=2678.41, y=50.00, z=-866.37] died, message: 'Nitwit was slain by Spider'
+[22Feb2025 06:24:39.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/13398, l='ServerLevel[New World]', x=2681.47, y=54.11, z=-855.38] died, message: 'Librarian was slain by Spider'
+[22Feb2025 06:24:46.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/13515, l='ServerLevel[New World]', x=2695.74, y=21.00, z=-910.65] died, message: 'Shepherd was slain by Spider'
+[22Feb2025 06:24:51.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[22Feb2025 06:24:51.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[22Feb2025 06:30:18.100] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loko384[/127.254.168.87:55695] logged in with entity id 15815 at (2391.1455369559244, 84.0, -580.4752934772396)
+[22Feb2025 06:30:18.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
+[22Feb2025 06:30:18.179] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
+[22Feb2025 06:30:19.635] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[22Feb2025 06:31:18.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: You logged in from another location
+[22Feb2025 06:31:18.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game
+[22Feb2025 06:31:18.886] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Feb2025 06:31:18.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loko384[/127.254.168.87:38669] logged in with entity id 16109 at (2392.7159205878665, 84.0, -577.8318224624537)
+[22Feb2025 06:31:18.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
+[22Feb2025 06:31:18.978] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
+[22Feb2025 06:31:20.388] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
