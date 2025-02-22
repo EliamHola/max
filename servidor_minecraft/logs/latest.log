@@ -5470,3 +5470,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [22Feb2025 06:31:18.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
 [22Feb2025 06:31:18.978] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
 [22Feb2025 06:31:20.388] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[22Feb2025 06:45:11.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Gave 1 [Ender Pearl] to Loko384]
