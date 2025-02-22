@@ -5293,3 +5293,17 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [
   "|**m@</!8,0+/$(k'g93=<5/p"
 ]
+[22Feb2025 05:45:39.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Loko384[/127.254.168.87:59299] logged in with entity id 5755 at (2797.477754088518, 64.41999998688698, -392.7893787290356)
+[22Feb2025 05:45:39.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
+[22Feb2025 05:45:39.646] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
+[22Feb2025 05:45:42.106] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[22Feb2025 05:46:03.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[22Feb2025 05:46:52.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was slain by Ocean Creeper
+[22Feb2025 05:47:21.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Deepling Brute
+[22Feb2025 05:47:36.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2406.500000, 53.500000, -382.500000]
+[22Feb2025 05:47:42.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Deepling Brute
+[22Feb2025 05:48:38.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2408.500000, 59.500000, -378.500000]
+[22Feb2025 05:49:32.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Deepling Brute
+[22Feb2025 05:49:46.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2438.500000, 58.500000, -422.500000]
+[22Feb2025 05:49:53.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios was slain by Deepling Brute
+[22Feb2025 05:50:30.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2432.500000, 61.500000, -413.500000]

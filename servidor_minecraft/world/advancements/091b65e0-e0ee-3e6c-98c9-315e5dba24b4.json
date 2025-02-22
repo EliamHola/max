@@ -2672,6 +2672,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2025-02-19 05:22:54 +0000",
+      "golden_apple": "2025-02-22 05:46:45 +0000",
       "melon_slice": "2025-02-19 07:16:27 +0000",
       "cod": "2025-02-19 05:58:30 +0000",
       "cooked_salmon": "2025-02-19 06:49:02 +0000"
