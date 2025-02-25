@@ -5759,6 +5759,12 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2025-02-25 02:54:22 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/decorations/fire_coral_block": {
     "criteria": {
       "has_fire_coral": "2025-02-25 02:44:55 +0000"
@@ -5786,6 +5792,12 @@
   "morevillagers:recipes/oceanography_table": {
     "criteria": {
       "has_barrel": "2025-02-25 02:44:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-25 02:49:22 +0000"
     },
     "done": true
   },
