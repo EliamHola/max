@@ -3017,7 +3017,8 @@
       "minecraft:husk": "2025-02-19 08:44:02 +0000",
       "minecraft:silverfish": "2025-02-19 07:14:05 +0000",
       "minecraft:zombie": "2025-02-19 07:37:52 +0000",
-      "minecraft:drowned": "2025-02-19 05:58:24 +0000"
+      "minecraft:drowned": "2025-02-19 05:58:24 +0000",
+      "minecraft:zombie_villager": "2025-02-25 02:45:01 +0000"
     },
     "done": false
   },
@@ -4739,6 +4740,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-02-25 02:44:55 +0000",
       "smoker": "2025-02-19 08:22:22 +0000"
     },
     "done": false
@@ -5754,6 +5756,48 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-02-24 01:19:09 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/fire_coral_block": {
+    "criteria": {
+      "has_fire_coral": "2025-02-25 02:44:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-02-25 02:44:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_shrub": {
+    "criteria": {
+      "has_jungle_sapling": "2025-02-25 02:49:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-02-25 02:44:21 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-02-25 02:44:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-02-25 02:44:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-02-25 02:44:55 +0000"
     },
     "done": true
   },

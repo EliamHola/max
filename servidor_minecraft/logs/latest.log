@@ -5240,3 +5240,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   "!^-91Kv}9 Vfz8`q]g&+/,0/5"
 ]
 [25Feb2025 02:25:06.598] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1517, y=82, z=743}
+[25Feb2025 02:44:21.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Dark Metallurgy]
+[25Feb2025 02:49:22.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [Gone Bananas!]
+[25Feb2025 02:52:20.910] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity WindlassSwitchEntity['Windlass'/4931, l='ServerLevel[New World]', x=2458.95, y=63.48, z=-382.85] as it would cause deadlock
