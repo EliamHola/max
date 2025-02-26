@@ -5205,3 +5205,19 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [26Feb2025 04:53:59.899] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 230210 bytes (in 24 string chunks with the size of 10000)
 [26Feb2025 04:54:07.326] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [26Feb2025 04:54:07.592] [Server thread/WARN] [ModernFix/]: Dedicated server took 130.9 seconds to load
+[26Feb2025 05:07:00.271] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[26Feb2025 05:07:00.273] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[26Feb2025 05:07:00.274] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[26Feb2025 05:07:04.476] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[26Feb2025 05:07:04.482] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003#�",
+  "f_134722_": 32756,
+  "fmlVersion": "NONE"
+}
+[26Feb2025 05:07:04.482] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 126 extra bytes: 
+[26Feb2025 05:07:04.490] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "HzgfVb_$I 2sA])<+<h.-X&+/,0/526.ip.gl.ply.gg"
+]
