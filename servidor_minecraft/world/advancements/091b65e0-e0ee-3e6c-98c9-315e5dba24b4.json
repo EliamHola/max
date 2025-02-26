@@ -5829,7 +5829,10 @@
     "criteria": {
       "cabbage": "2025-02-26 08:22:59 +0000",
       "onion": "2025-02-26 08:25:28 +0000",
+      "rice": "2025-02-26 08:42:11 +0000",
       "beetroot": "2025-02-26 08:31:32 +0000",
+      "potato": "2025-02-26 08:39:34 +0000",
+      "wheat": "2025-02-26 08:34:09 +0000",
       "carrot": "2025-02-26 08:28:52 +0000"
     },
     "done": false
@@ -5885,6 +5888,30 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-02-26 08:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-26 08:41:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-02-26 08:42:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-02-26 08:41:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-02-26 08:41:21 +0000"
     },
     "done": true
   },
