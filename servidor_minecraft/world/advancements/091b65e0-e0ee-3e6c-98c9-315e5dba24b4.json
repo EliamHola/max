@@ -5829,6 +5829,7 @@
     "criteria": {
       "cabbage": "2025-02-26 08:22:59 +0000",
       "onion": "2025-02-26 08:25:28 +0000",
+      "tomato": "2025-02-26 08:51:04 +0000",
       "rice": "2025-02-26 08:42:11 +0000",
       "beetroot": "2025-02-26 08:31:32 +0000",
       "potato": "2025-02-26 08:39:34 +0000",
@@ -5836,6 +5837,12 @@
       "carrot": "2025-02-26 08:28:52 +0000"
     },
     "done": false
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-02-26 08:52:04 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
@@ -5849,9 +5856,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-02-26 08:47:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-02-26 08:52:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-02-26 08:25:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-02-26 08:52:39 +0000"
     },
     "done": true
   },
@@ -5867,15 +5892,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-26 08:52:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2025-02-26 08:22:57 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-26 08:52:39 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/gardening_table": {
     "criteria": {
       "has_flower": "2025-02-26 08:18:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-02-26 08:52:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-02-26 08:52:39 +0000"
     },
     "done": true
   },
@@ -5897,6 +5946,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_ropelogged_tomato": {
+    "criteria": {
+      "harvest_ropelogged_tomato": "2025-02-26 08:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-26 08:52:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-02-26 08:42:11 +0000"
@@ -5906,6 +5967,12 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-02-26 08:41:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-02-26 08:52:39 +0000"
     },
     "done": true
   },
