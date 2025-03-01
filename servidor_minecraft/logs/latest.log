@@ -5217,3 +5217,45 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [01Mar2025 02:08:56.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 joined the game
 [01Mar2025 02:08:56.387] [Server thread/INFO] [Jade/]: Syncing config to Loko384 (3bf84b8b-38e4-36e4-9466-bc45342fedf3)
 [01Mar2025 02:08:58.898] [Server thread/INFO] [ping-wheel/]: Channel update: Loko384 -> default
+[01Mar2025 02:17:37.546] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 02:17:37.553] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003���H",
+  "f_134722_": 35092,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 02:17:37.554] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 161 extra bytes: 
+[01Mar2025 02:17:37.555] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9qW@VFE1jD zFsKKN)uc_b?\"&+/,0/56.ip.gl.ply.gg"
+]
+[01Mar2025 02:17:38.337] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 02:17:38.337] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003O\u001d",
+  "f_134722_": 2828,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 02:17:38.338] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 139 extra bytes: 
+[01Mar2025 02:17:38.338] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Jg\"aTQ+ 8~mBth\\(Sx&+/,0/526.ip.gl.ply.gg"
+]
+[01Mar2025 02:17:38.827] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 02:17:38.828] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003�\u0005p�",
+  "f_134722_": 5822,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 02:17:38.828] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 129 extra bytes: 
+[01Mar2025 02:17:38.828] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "!stAA*R o|XAv^n`6!5V,XV&+/,0526.ip.gl.ply.gg"
+]
+[01Mar2025 02:20:04.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 was struck by lightning whilst fighting EliamDios
+[01Mar2025 02:21:09.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[01Mar2025 02:22:42.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2801ms or 56 ticks behind

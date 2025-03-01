@@ -6373,9 +6373,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-01 02:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-03-01 02:16:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/rice_roll_medley_block": {
     "criteria": {
       "has_rice_roll": "2025-03-01 02:09:38 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-01 02:16:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-01 02:16:40 +0000"
     },
     "done": true
   },
