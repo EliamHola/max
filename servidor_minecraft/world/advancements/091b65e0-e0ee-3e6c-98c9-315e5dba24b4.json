@@ -3014,6 +3014,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-19 07:38:44 +0000",
+      "minecraft:vindicator": "2025-03-01 02:58:33 +0000",
       "minecraft:spider": "2025-02-19 05:47:37 +0000",
       "minecraft:husk": "2025-02-19 08:44:02 +0000",
       "minecraft:silverfish": "2025-02-19 07:14:05 +0000",
@@ -6385,6 +6386,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-03-01 02:55:02 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
     "criteria": {
       "has_hay_block": "2025-03-01 02:48:32 +0000"
@@ -6394,6 +6401,18 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-01 02:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-03-01 02:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-01 02:55:02 +0000"
     },
     "done": true
   },
@@ -6436,6 +6455,12 @@
   "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
     "criteria": {
       "has_hay_block": "2025-03-01 02:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-03-01 02:55:02 +0000"
     },
     "done": true
   },

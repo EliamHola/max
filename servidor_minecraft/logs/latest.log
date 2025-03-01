@@ -5318,3 +5318,36 @@ Pos: BlockPos{x=2779, y=71, z=-797}
 [01Mar2025 02:50:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
 [01Mar2025 02:50:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
 [01Mar2025 02:50:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[01Mar2025 02:56:27.509] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[01Mar2025 02:56:27.509] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[01Mar2025 02:56:27.509] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:57:21.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[01Mar2025 02:57:42.296] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 02:57:42.297] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003+��c",
+  "f_134722_": 45313,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 02:57:42.297] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 171 extra bytes: 
+[01Mar2025 02:57:42.297] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "=X ?]Au 1ZrT%D=&k&dw&+/,0/526.ip.gl.ply.gg"
+]
+[01Mar2025 02:58:02.534] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 02:58:02.535] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 225,
+  "f_134721_": "",
+  "f_134722_": 221,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 02:58:02.535] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 97 extra bytes: 
+[01Mar2025 02:58:02.535] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "wQ(Ycd{Xh<f0g@/58+3(#"
+]
+[01Mar2025 03:00:44.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7357, l='ServerLevel[New World]', x=2783.64, y=71.42, z=-791.67] died, message: 'Armorer was slain by Spider'
+[01Mar2025 03:00:53.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2391.500000, 84.500000, -581.500000]
+[01Mar2025 03:00:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]

@@ -424,9 +424,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-03-01 03:00:06 +0000",
       "log_spam_fixer": "2025-02-19 06:59:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/keyring": {
     "criteria": {
@@ -3889,6 +3890,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-19 07:56:17 +0000",
+      "minecraft:vindicator": "2025-03-01 02:58:58 +0000",
       "minecraft:spider": "2025-02-19 07:41:18 +0000",
       "minecraft:phantom": "2025-02-22 05:46:20 +0000",
       "minecraft:husk": "2025-02-19 08:58:54 +0000",
@@ -6387,6 +6389,18 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-03-01 02:59:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-03-01 02:59:42 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_village": {
     "criteria": {
       "taiga": "2025-03-01 02:41:43 +0000"
@@ -6423,6 +6437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-01 02:50:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-03-01 02:23:29 +0000"
@@ -6453,6 +6473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-01 02:54:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-03-01 02:46:36 +0000"
@@ -6477,11 +6503,29 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-03-01 02:59:42 +0000"
+    },
+    "done": true
+  },
   "morevillagers:all_villages": {
     "criteria": {
       "taiga": "2025-03-01 02:41:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-01 02:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-01 02:54:29 +0000"
+    },
+    "done": true
   },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
@@ -6492,6 +6536,12 @@
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-03-01 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/spruce_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-03-01 02:50:32 +0000"
     },
     "done": true
   },
@@ -6507,9 +6557,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-01 02:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-03-01 02:51:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-03-01 02:16:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-01 02:59:28 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_jack_o_lantern": {
+    "criteria": {
+      "has_item": "2025-03-01 02:59:42 +0000"
     },
     "done": true
   },
@@ -6549,6 +6623,18 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2025-03-01 02:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-03-01 02:53:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-03-01 02:23:29 +0000"
@@ -6558,6 +6644,18 @@
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-03-01 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-01 02:59:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-01 02:50:32 +0000"
     },
     "done": true
   },
@@ -6633,6 +6731,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-01 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-03-01 02:59:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-03-01 02:59:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_spruce_post": {
+    "criteria": {
+      "has_item": "2025-03-01 02:50:32 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2025-03-01 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-01 02:59:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-03-01 02:23:29 +0000"
@@ -6645,9 +6779,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-03-01 02:59:28 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/decorations/copper_pot": {
     "criteria": {
       "has_copper": "2025-03-01 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-01 02:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-01 02:54:29 +0000"
     },
     "done": true
   },
@@ -6660,6 +6812,18 @@
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-03-01 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-03-01 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2025-03-01 02:59:42 +0000"
     },
     "done": true
   },
