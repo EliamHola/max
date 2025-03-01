@@ -5057,6 +5057,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "blueprinttable": "2025-03-01 02:43:11 +0000",
+      "miningbench": "2025-03-01 02:46:07 +0000",
       "brewingstand": "2025-02-19 07:58:03 +0000",
       "grindstone": "2025-02-19 08:21:52 +0000",
       "smithingtable": "2025-02-19 08:21:49 +0000",
@@ -6373,9 +6375,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-01 02:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-03-01 02:33:20 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "taiga": "2025-03-01 02:41:43 +0000"
     },
     "done": true
   },
@@ -6415,15 +6429,33 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-01 02:42:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-03-01 02:23:29 +0000"
     },
     "done": true
   },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-03-01 02:47:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-01 02:33:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-01 02:46:36 +0000"
     },
     "done": true
   },
@@ -6444,6 +6476,12 @@
       "has_item": "2025-03-01 02:23:29 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "taiga": "2025-03-01 02:41:43 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
@@ -6496,6 +6534,12 @@
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-03-01 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-03-01 02:47:40 +0000"
     },
     "done": true
   },
@@ -6616,6 +6660,18 @@
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-03-01 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-03-01 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-03-01 02:47:18 +0000"
     },
     "done": true
   },

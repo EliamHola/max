@@ -5280,3 +5280,41 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [01Mar2025 02:42:46.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Penteconter]
 [01Mar2025 02:43:13.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2707.500000, 35.500000, -917.500000]
 [01Mar2025 02:43:14.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Radiation Vibe]
+[01Mar2025 02:43:30.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5026ms or 100 ticks behind
+[01Mar2025 02:43:55.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [A Nice-y Look]
+[01Mar2025 02:43:55.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01Mar2025 02:44:29.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[01Mar2025 02:46:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2812.500000, 73.500000, -802.500000]
+[01Mar2025 02:47:14.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7372, l='ServerLevel[New World]', x=2833.70, y=73.42, z=-843.75] died, message: 'Unemployed was slain by Decaying Zombie'
+[01Mar2025 02:47:38.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has made the advancement [The Wind Darkening]
+[01Mar2025 02:48:12.065] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:48:12.065] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:48:12.066] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:48:12.066] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:48:12.066] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:48:47.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[01Mar2025 02:48:53.725] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:48:53.725] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:48:53.725] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[01Mar2025 02:48:53.726] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:49:11.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3211ms or 64 ticks behind
+[01Mar2025 02:49:21.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[01Mar2025 02:50:31.970] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:stripped_spruce_log}[axis=z]
+Tool: 1 iron_axe
+Pos: BlockPos{x=2787, y=71, z=-795}
+[01Mar2025 02:50:32.028] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:stripped_spruce_log}[axis=x]
+Tool: 1 iron_axe
+Pos: BlockPos{x=2784, y=71, z=-794}
+[01Mar2025 02:50:32.304] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:stripped_spruce_log}[axis=z]
+Tool: 1 iron_axe
+Pos: BlockPos{x=2779, y=71, z=-797}
+[01Mar2025 02:50:33.057] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:50:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:50:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[01Mar2025 02:50:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[01Mar2025 02:50:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[01Mar2025 02:50:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[01Mar2025 02:50:33.058] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
