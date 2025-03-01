@@ -5265,3 +5265,18 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [01Mar2025 02:30:43.510] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 diamond_sword
 [01Mar2025 02:30:43.510] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [01Mar2025 02:30:43.510] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[01Mar2025 02:33:20.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Fishing Fanatic]
+[01Mar2025 02:35:36.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EliamDios lost connection: Disconnected
+[01Mar2025 02:35:36.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios left the game
+[01Mar2025 02:35:42.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EliamDios[/127.79.245.62:49631] logged in with entity id 4777 at (2385.6209351633574, 65.0, -572.9942294424139)
+[01Mar2025 02:35:42.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios joined the game
+[01Mar2025 02:35:43.035] [Server thread/INFO] [Jade/]: Syncing config to EliamDios (091b65e0-e0ee-3e6c-98c9-315e5dba24b4)
+[01Mar2025 02:35:48.428] [Server thread/INFO] [ping-wheel/]: Channel update: EliamDios -> default
+[01Mar2025 02:39:10.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Welcome To The Jungle]
+[01Mar2025 02:39:10.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [The Beginning of An Adventure]
+[01Mar2025 02:41:40.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2654.500000, 65.500000, -854.500000]
+[01Mar2025 02:41:42.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[01Mar2025 02:41:43.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [First Village]
+[01Mar2025 02:42:46.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 has made the advancement [Penteconter]
+[01Mar2025 02:43:13.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2707.500000, 35.500000, -917.500000]
+[01Mar2025 02:43:14.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has reached the goal [Radiation Vibe]

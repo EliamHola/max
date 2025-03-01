@@ -6373,6 +6373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-01 02:33:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-03-01 02:23:29 +0000"
@@ -6384,6 +6390,12 @@
       "has_item": "2025-03-01 02:23:29 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-03-01 02:31:03 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/wrench": {
     "criteria": {
@@ -6406,6 +6418,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-03-01 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-01 02:33:20 +0000"
     },
     "done": true
   },
@@ -6439,6 +6457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-01 02:33:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-03-01 02:16:40 +0000"
@@ -6460,6 +6484,12 @@
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-03-01 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-03-01 02:39:10 +0000"
     },
     "done": true
   },
@@ -6535,9 +6565,21 @@
     },
     "done": true
   },
+  "majruszsenchantments:fishing_fanatic": {
+    "criteria": {
+      "has_met_requirement": "2025-03-01 02:30:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-03-01 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:angler_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-03-01 02:33:20 +0000"
     },
     "done": true
   },
@@ -6574,6 +6616,12 @@
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-03-01 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2025-03-01 02:39:10 +0000"
     },
     "done": true
   },
