@@ -5351,3 +5351,110 @@ Pos: BlockPos{x=2779, y=71, z=-797}
 [01Mar2025 03:00:44.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7357, l='ServerLevel[New World]', x=2783.64, y=71.42, z=-791.67] died, message: 'Armorer was slain by Spider'
 [01Mar2025 03:00:53.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2391.500000, 84.500000, -581.500000]
 [01Mar2025 03:00:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Loko384: Teleported Loko384 to EliamDios]
+[01Mar2025 03:18:05.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Loko384 lost connection: Disconnected
+[01Mar2025 03:18:05.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Loko384 left the game
+[01Mar2025 03:18:25.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: The difficulty has been set to Peaceful]
+[01Mar2025 03:18:32.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: The difficulty has been set to Hard]
+[01Mar2025 03:18:37.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2918.500000, 72.500000, -923.500000]
+[01Mar2025 03:18:45.700] [pool-8-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / valhelsia_structures:castle_ruin], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau]] from pos BlockPos{x=3013, y=68, z=-955}
+[01Mar2025 03:18:50.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4222ms or 84 ticks behind
+[01Mar2025 03:19:21.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EliamDios has completed the challenge [Centennial]
+[01Mar2025 03:19:51.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[01Mar2025 03:24:02.062] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 03:24:02.063] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003y��",
+  "f_134722_": 48137,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 03:24:02.063] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 247 extra bytes: 
+[01Mar2025 03:24:02.064] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "o/(@#dO_7 .Kv3dU3MC&+/,0/526.p.gl.ply.gg+3&$ S #)yIU{j6"
+]
+[01Mar2025 03:24:02.155] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 03:24:02.156] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003r+�a",
+  "f_134722_": 775,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 03:24:02.156] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 143 extra bytes: 
+[01Mar2025 03:24:02.156] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ".Q,;T%7> d*2I@`QC tLnL?&+/,0/526.ip.gl.ply.gg"
+]
+[01Mar2025 03:24:02.455] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 03:24:02.455] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003f|�\"",
+  "f_134722_": 40942,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 03:24:02.456] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 130 extra bytes: 
+[01Mar2025 03:24:02.456] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "wZD1y-QYc T>1On1xTUsWH&+/,0526.ip.gl.ply.gg"
+]
+[01Mar2025 03:24:03.319] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 03:24:03.319] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003]k�E",
+  "f_134722_": 53282,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 03:24:03.320] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 181 extra bytes: 
+[01Mar2025 03:24:03.320] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "sh~Y N%VjS5Zs,O&+/,0/526.ip.gl.ply.gg"
+]
+[01Mar2025 03:24:03.732] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 03:24:03.732] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003X�'\u0012",
+  "f_134722_": 1735,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 03:24:03.732] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 165 extra bytes: 
+[01Mar2025 03:24:03.733] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "1`<@kA\" kiNx8e-YU@ xz&+/,/526.ipgl.ply.gg"
+]
+[01Mar2025 03:24:03.877] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 03:24:03.877] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 1,
+  "f_134721_": "\u0003\u0003�KVe",
+  "f_134722_": 3361,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 03:24:03.877] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 162 extra bytes: 
+[01Mar2025 03:24:03.877] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ":4QjBUY}_5Z ^0Eie5}xBn`&+/,0/526.ipgl.ply.gg"
+]
+[01Mar2025 03:24:07.857] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ClientIntentionPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[01Mar2025 03:24:07.858] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134720_": 213,
+  "f_134721_": "",
+  "f_134722_": 209,
+  "fmlVersion": "NONE"
+}
+[01Mar2025 03:24:07.858] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 96 extra bytes: 
+[01Mar2025 03:24:07.858] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "g$cf'Th68Ujo8,0+/$k#'g93=<5/p"
+]
+[01Mar2025 03:25:49.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[01Mar2025 03:26:09.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[01Mar2025 03:26:26.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[01Mar2025 03:26:48.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7530ms or 150 ticks behind
+[01Mar2025 03:27:07.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
+[01Mar2025 03:27:24.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[01Mar2025 03:29:13.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EliamDios: Teleported EliamDios to 2385.500000, 84.500000, -579.500000]
